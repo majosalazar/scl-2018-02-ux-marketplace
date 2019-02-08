@@ -8,13 +8,14 @@ Actualmente en Chile existe una mayor demanda por productos que requieran un men
 
 A consecuencia de lo anterior es que ha ido en aumento este último tiempo la demanda y el consumo de este tipo de alimentos, dando cabida a pequeños emprendimientos como el de Consuelo Preusser una nutricionista que promueve la alimentación saludable vendiendo frutos secos, semillas y cereales.
 
-### Propuesta
+### Objetivos del proyecto
 
 
 
-### Cliente
+### Problemas identificados en la investigación (del cliente y del usuario)
 
-Emporio Amapolas fue creado por Consuelo Preusser, nutricionista y madre de 2 hijos pequeños hace ya casi un año.
+
+Emporio Amapolas fue creado por Consuelo Preusser, nutricionista y madre de 2 hijos pequeños hace ya casi un año. A continuación puedes revisar más detalles respecto del análisis de su instagram.
 
 [Análisis del instagram de EA](https://docs.google.com/document/d/1LLvDtsL75AYOwp0q8whOlEDzfArTKye1I95G9FlN4Pc/edit?usp=sharing)
 
@@ -28,7 +29,7 @@ Emporio Amapolas fue creado por Consuelo Preusser, nutricionista y madre de 2 hi
 
 
 
-¿Porque es un buen negocio vender frutos secos por Instagram?
+**¿Porque es un buen negocio vender frutos secos por Instagram?**
 
 Es conveniente vender frutos secos por los siguientes factores:
 - Hoy en día existe conciencia de vida saludable
@@ -42,6 +43,19 @@ Es conveniente vender por Instagram porque:
 - “Está de moda” realizar ventas por esta plataforma, te da un status.
 - El uso de la plataforma es gratis, especial para nuevos emprendedores.
 
+### Definición del público objetivo
+
+#### User persona
+<p align="center">
+<img src="src/img/readme/UserPersona.png">
+</p>
+
+#### Customer Journey Map
+<p align="center">
+<img src="src/img/readme/CostumerJourneyMap.png">
+</p>
+
+
 ### El desafío
 
 Las mayores problemáticas que Consuelo enfrenta se derivan del poco tiempo que tiene para destinar a su emprendimiento, ya que es mamá de 2 niños de entre 1 y 4 años. Esto hace que ella no pueda estar totalmente pendiente de todo lo que conlleva tener un emprendimiento, no siempre está pendiente de publicar en instagram, no actualiza el excel en el que llevar la gestión de ingresos cada vez que es necesario ni tiene claridad sobre su inventario. 
@@ -53,14 +67,35 @@ Por otra parte los usuarios que prefieren comprar productos por medio de platafo
 - Incluyen un sistema de pago seguro la mayoría de las veces
 - Cuando ya conocen un producto no sienten necesario ir a una tienda por él, prefieren recibirlo evitar en casa directamente y así evitar lugares con mucha gente.
 
-Considerando todo lo anterior es que nosotras nos retamos a trabajar en ¿Cómo podríamos... 
+Considerando todo lo anterior es que nosotras vemos la oportunidad de trabajar en en ¿Cómo podríamos... 
 
 - facilitar a la emprendedora con poco tiempo la gestion toda la gestión del negocio?
 - resaltar a Consuelo como nutricionista y su conocimiento de recetas ricas y saludables, para aumentar su clientela?
 - brindar un proceso de compra y envio más ameno y acorde al cliente?
 
-#### Benchmark
 
+### Definición del producto
+
+
+Quiénes son los principales usuarios de producto
+Cuáles son los objetivos del negocio en relación con el producto
+Cuáles son los objetivos de estos usuarios en relación con el producto
+Cuál será la propuesta de valor del sitio que vas a crear
+Cuáles son los contenidos que el usuarios quiere ver, la información que buscarían para convencerse de comprar, confiar en la empresa que lo ofrece, encontrar lo que busca y comprarlo
+Cómo van a distribuir y entregar esos contenidos
+Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
+Cómo creen que el producto les está resolviendo sus problemas
+
+### Prototipo Navegable
+[Demo aqui](https://www.figma.com/proto/T9gsNtSmbffga3cREwk65ngH/Prototipo-navegable-EA?scaling=min-zoom)
+
+
+### Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
+
+### Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
+
+
+#### Benchmark
 <p align="center">
 <img src="src/img/readme/benchmark-placemarket.png">
 </p>
