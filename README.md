@@ -8,21 +8,18 @@
 ## **Preámbulo** 
 Actualmente en Chile existe una mayor demanda por productos que requieran un menor tiempo de preparación y que sean fáciles de consumir (ProChile, 2012), debido principalmente a cambios en el estilo de vida de los habitantes. Además se observa la tendencia a comer más saludable, a preocuparse por los ingredientes que contienen los alimentos, las propiedades nutritivas que aportan (ChilIndustria, 2013), y a exigir cada vez más sobre el contenido y la funcionalidad de los productos (ProChile, 2012). Influencias como el movimiento Vegano y referentes en redes sociales de alimentación saludable, han sido gatillantes en la alza de la venta y consumo de frutos secos.
 
--------------------
 ## **Introducción**
 A consecuencia de lo mencionado anteriormente es que ha ido en aumento este último tiempo el consumo de este tipo de alimentos, dando cabida a pequeños emprendimientos como el de Consuelo Preusser una nutricionista que promueve la alimentación saludable vendiendo frutos secos, semillas y cereales a través del Emporio Amapolas (EA) una cuenta de instagram que tiene hace ya casi un año, en la que también entrega recetas saludables utilizando los productos que vende.
 
--------------------
 
 ## **El Desafío**
 El Emporio Amapola actualmente utiliza instagram como plataforma para promocionar y vender sus productos, al ser una plataforma gratuita brinda la posibilidad de conectar fácilmente con posibles clientes y evaluar la factibilidad de un negocio con poca inversión y de manera rápida, pero al crecer el volumen de ventas tanto el proceso de venta como el de compra pueden ser mejorados ampliamente con el fin de brindar una mejor experiencia.
 
--------------------
 
 ## **Objetivo del proyecto**
 Los objetivos de este proyecto se enmarcan en la búsqueda de la solución más idónea para nuestra cliente Consuelo Preusser y sus usuarios, para esto realizaremos un proceso de investigación, ideación y posterior testeo para llegar finalmente al desarrollo de prototipos funcionales. Es por medio de este proceso que ahondaremos en las problemáticas específicas en cada caso y trabajaremos en propuestas que aprovechen estas necesidades para sacar todo el potencial del Emporio Amapolas.
 
--------------------
+
 
 ## **Definición del producto**
 El marketplace de Emporio Amapolas reúne un catálogo productos, información sobre los beneficios de su consumo, porciones diarias recomendadas, recetas saludables en las que se indica su nivel de dificultad, el tiempo de duración de estas y un carrito de compra. Además cuenta con una version de administración que permite administrar el stock, ingresar nuevos productos, mantener claridad acerca de los ingresos y plantearse metas de venta por mes.
@@ -137,12 +134,13 @@ En esta primera etapa comenzamos anotando todo lo que aprendimos en el proceso d
 </p>
 
 ## **Insights**
-Aprendizajes
+
+Aprendizajes más relevantes que logramos identificar.
 <p align="center">
 <img src="src/img/readme/insights.png">
 </p>
 
- 
+
 
 ## **¿Cómo podríamos?**
 Entendiendo cuáles son los problemas del Emporio Amapolas, puedimos plantearnos el cómo podriamos resolver estos problemas.
@@ -163,13 +161,24 @@ Ya teniendo nuestras interrogantes, pudimos comenzar a pensar en cómo resolver�
 
 # **Objetivos de Diseño**
 
-Con nuestras ideas definidas, decidimos desarrollar un marketplace que cuente con las siguientes características; 
+Con nuestras ideas definidas, en esta primera etapa decidimos efocarnos en las problemáticas realacionadas al usuario y desarrollar un marketplace de uso intuitivo, fácil y eficiente, que promueva una buena experiencia de compra a los usuarios, entregándoles toda la información que necesitan y esperan al momento de realizar una compra, evitando pasos innecesarios con el fin de que sea un proceso eficaz. 
 
+El Marketplace contará con las siguientes características:
+
+<p align="center">
+<img src="src/img/readme/objetivos.png">
+</p>
+
+
+
+
+
+
+
+
+--------------------
+En una siguiente etapa nos enfocaremos en la problematica de Consuelo. Planteamos la siguiente solución:
 - Auto-administrable permitiendo a nuestra cliente gestionar todo desde un mismo lugar, llevar un inventario claro en el que pueda agregar nuevos productos, se indique el stock disponible al usuario, notifique cada compra e indique los despachos que debe realizar cada día haciendo más eficaz su tiempo en administración de EA, a su vez permitiendo que pueda dedicarse a crear contenido y subir recetas saludables.
-
-- De uso intuitivo, fácil y eficiente, que promueva una buena experiencia de compra a los usuarios, entregándoles toda la información que necesitan y esperan al momento de realizar una compra, evitando pasos innecesarios con el fin de que sea un proceso eficaz. 
-
-- Incluiremos la sección “Recetas” en la que se sugieren algunas preparaciones usando los productos que vende EA esto debido a que es uno de los puntos fuertes de contenido en el instagram y también la sección “¿Cómo compro?” donde se explican detalladamente las formas de pago, los diferentes tipos de envío, los plazos de entrega y el retiro en tienda.
 
 # **Proceso de Diseño**
 
@@ -337,10 +346,6 @@ Acá puedes ver nuestro [Primer testeo](https://www.useloom.com/share/963711cf68
 
 
 
-## **Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.**
-
-En esta primera etapa trabajamos centradas en la problemática de los clientes del Emporio Amapolas.
-Los contenidos que escogimos para implementar en la página fueron en base a los aprendizaje logrados en la observación contextual de usuarios realizando una compra a EA por medio de instagram, entendiendo cuáles eran sus pasos lógicos para llegar a una tarea en específico y además tomamos como referencia algunas de las mejores características de los competidores con el fin de entregar la experiencia de compra más idónea a usuarios que por tiempo prefieren realizar compras online. 
 
 
 
@@ -350,3 +355,12 @@ Los contenidos que escogimos para implementar en la página fueron en base a los
 [Revisa nuestro video explicando el proceso del proyecto aqui]()
 
 [Aqui puede revisar la carpeta donde se contiene todo el proceso de investigación](https://drive.google.com/drive/folders/1osX3sd7BJ2ZVJ7C60uSWzxfccQ5Br5rj?usp=sharing)
+
+
+
+
+
+## **Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.**
+
+En esta primera etapa trabajamos centradas en la problemática de los clientes del Emporio Amapolas.
+Los contenidos que escogimos para implementar en la página fueron en base a los aprendizaje logrados en la observación contextual de usuarios realizando una compra a EA por medio de instagram, entendiendo cuáles eran sus pasos lógicos para llegar a una tarea en específico y además tomamos como referencia algunas de las mejores características de los competidores con el fin de entregar la experiencia de compra más idónea a usuarios que por tiempo prefieren realizar compras online. 
