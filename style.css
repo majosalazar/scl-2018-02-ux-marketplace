@@ -79,5 +79,79 @@ h1 {
   font-size: 12px;
   text-align: center;
   text-transform: uppercase;
+}
 
+h2 {
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 36px;
+}
+
+hr {
+  padding-bottom: 10px;
+}
+
+.card-notify {
+  position: absolute;
+  left: -2px;
+  top: 25px;
+  background: #7DCD85;
+  text-align: center;
+  border-radius: 0 22px 22px 0;
+  color: #fff;
+  padding: 5px 10px;
+  font-size: 14px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 16px;
+}
+
+h3 {
+  height: 17px;
+  left: 181px;
+  right: 1120px;
+  bottom: 840px;
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 24px;
+  text-align: center;
+  color: #1F2041;
+}
+
+h5 {
+  height: 17px;
+  left: 209px;
+  right: 1127px;
+  bottom: 804px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 24px;
+  font-size: 14px;
+  text-align: center;
+  color: rgba(31, 32, 65, 0.5);
+  opacity: 0.5;
+}
+
+h4 {
+  height: 17px;
+  left: 188px;
+  right: 1090px;
+  bottom: 773px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 24px;
+  font-size: 18px;
+  text-align: center;
+  color: rgba(31, 32, 65, 0.5);
 }
