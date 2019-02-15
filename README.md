@@ -49,10 +49,12 @@ Observamos a 3 usuarios usando el instagram de Emporio Amapolas, le solicitamos 
 <p align="center">
 <img src="src/img/readme/observacion contextual/observacion-contextual-2.png">
 </p>
+Acá puedes ver las dos primeras observaciones contextuales presenciales:
 
-PENDIENTES EDITAR MANE
-[]()
-[]()
+[Obsevacion contextual 1](https://youtu.be/PY4M-KIDS_A)
+
+[Obsevacion contextual 2](https://youtu.be/jNC7iLCT3pA)
+
 
 ## **Benchmark**
 Analizamos a 9 competidores que se encuentran en el rubro de venta de frutos secos, los cuales tienen diferentes formas y volúmenes de ventas, algunos utilizan plataformas digitales y otros son más tradicionales. Aquí puedes ver una tabla comparativa con los aspectos más relevantes.
@@ -210,6 +212,9 @@ Diseñamos la estructuración de nuestra página con un primer Wireframe, el que
 
 ## **Testeo del Wireframe**
 
+Acá puedes ver uno de los [Testeo del Wireframe.](https://youtu.be/TLz3eaF30aE)
+
+
 Los testeos de usabilidad nos entregaron el siguiente feedback:
 - La posición del buscado no es la más adecuada, pareciera ser un buscador general y no de productos.
 - Al usuario le interesaba ver productos en oferta más que destacados.
@@ -352,15 +357,8 @@ Acá puedes ver nuestro [Primer testeo](https://www.useloom.com/share/963711cf68
 
 ## **Otros contenidos**
 
-[Revisa nuestro video explicando el proceso del proyecto aqui]()
+[Revisa nuestro video explicando el proceso del proyecto aqui](https://youtu.be/Ti6wz03O-bA)
 
 [Aqui puede revisar la carpeta donde se contiene todo el proceso de investigación](https://drive.google.com/drive/folders/1osX3sd7BJ2ZVJ7C60uSWzxfccQ5Br5rj?usp=sharing)
 
 
-
-
-
-## **Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.**
-
-En esta primera etapa trabajamos centradas en la problemática de los clientes del Emporio Amapolas.
-Los contenidos que escogimos para implementar en la página fueron en base a los aprendizaje logrados en la observación contextual de usuarios realizando una compra a EA por medio de instagram, entendiendo cuáles eran sus pasos lógicos para llegar a una tarea en específico y además tomamos como referencia algunas de las mejores características de los competidores con el fin de entregar la experiencia de compra más idónea a usuarios que por tiempo prefieren realizar compras online. 
