@@ -32,11 +32,11 @@ El marketplace de Emporio Amapolas reúne un catálogo productos, información s
 Emporio Amapolas fue creado por Consuelo Preusser hace ya casi un año, ella es nutricionista y madre de 2 hijos pequeños, partió este emprendimiento como una forma de promover el consumo de frutos secos como base para una alimentación saludable, se inspiró en otra tienda por instagram que ella seguia y todo su proceso con el EA ha sido bastante experimental 
 A continuación puedes revisar más detalles sobre quiénes son sus seguidores, que tipo de perfiles sigue y qué aspectos hacen que una publicación sea más exitosa en el instagram de Emporio Amapolas.
 
-[Análisis del instagram de EA](https://docs.google.com/document/d/1LLvDtsL75AYOwp0q8whOlEDzfArTKye1I95G9FlN4Pc/edit?usp=sharing)
+>[Análisis del instagram de EA](https://docs.google.com/document/d/1LLvDtsL75AYOwp0q8whOlEDzfArTKye1I95G9FlN4Pc/edit?usp=sharing)
 
 
 ### **Entrevista a Consuelo Preusser**
-[Aqui puedes escuchar la entrevista](https://soundcloud.com/marlene-lopez-nanco-729624906/emporioamapolas-entrevista/s-paV2c)
+>[Aqui puedes escuchar la entrevista](https://soundcloud.com/marlene-lopez-nanco-729624906/emporioamapolas-entrevista/s-paV2c)
 
 ## **Observación contextual**
 
@@ -49,10 +49,12 @@ Observamos a 3 usuarios usando el instagram de Emporio Amapolas, le solicitamos 
 <p align="center">
 <img src="src/img/readme/observacion contextual/observacion-contextual-2.png">
 </p>
+Acá puedes ver las dos primeras observaciones contextuales presenciales:
 
-PENDIENTES EDITAR MANE
-[]()
-[]()
+>[Obsevacion contextual 1](https://youtu.be/PY4M-KIDS_A)
+
+>[Obsevacion contextual 2](https://youtu.be/jNC7iLCT3pA)
+
 
 ## **Benchmark**
 Analizamos a 9 competidores que se encuentran en el rubro de venta de frutos secos, los cuales tienen diferentes formas y volúmenes de ventas, algunos utilizan plataformas digitales y otros son más tradicionales. Aquí puedes ver una tabla comparativa con los aspectos más relevantes.
@@ -210,6 +212,9 @@ Diseñamos la estructuración de nuestra página con un primer Wireframe, el que
 
 ## **Testeo del Wireframe**
 
+>Acá puedes ver uno de los [Testeo del Wireframe.](https://youtu.be/TLz3eaF30aE)
+
+
 Los testeos de usabilidad nos entregaron el siguiente feedback:
 - La posición del buscado no es la más adecuada, pareciera ser un buscador general y no de productos.
 - Al usuario le interesaba ver productos en oferta más que destacados.
@@ -234,7 +239,7 @@ Esta máqueta incluye interacción básica, para realizar testeos. Puedes ver la
 [Demo aqui](https://www.figma.com/proto/fCVmKSlQkjrEVZpyQcoKRpfx/Emporio-Amapola-Wireframe?node-id=44%3A949&viewport=-15705%2C2704%2C1.44637&scaling=min-zoom)
 
 ## **Testeo de la Maqueta** 
-Se realizaron 5 testeos de la maqueta, los cuales puedes verlos aquí:
+>Se realizaron 5 testeos de la maqueta, los cuales puedes verlos aquí:
 [Testeo 1](https://www.useloom.com/share/9a5ada8a3bea47a0ba233efab539797b),
 [Testeo 2](https://www.useloom.com/share/87782a06658c41d982a021c8c1a29310),
 [Testeo 3](https://www.useloom.com/share/2b8001eca77744dcb41efa569fea1e40),
@@ -283,7 +288,7 @@ Los contenidos más relevantes en esta primera etapa son:
 - El flujo de compra; el usuario puede seleccionar el tipo de formato de su compra (cantidad de kg), a partir de esta selección indicará la cantidad de stock disponible, dándole la posibilidad de escoger la cantidad de productos que quiere comprar indicando inmediatamente al costado el valor que tendrá esta compra, indicando en todo momento el valor que tendrá su compra. Si le da en agregar al carro, en el navbar se indica el valor de total de los productos y la cantidad de estos. Al ir al carro de compra se muestran los productos seleccionados con posibilidad de eliminar alguno si se quiere y en el costado derecho se indica el total de la compra y las opciones de envío disponibles, cuentan con un  tooltip con detalles de cada una de la opciones.
 
 
->Puedes ver la [demo del Prototipo aqui](https://www.figma.com/proto/T9gsNtSmbffga3cREwk65ngH/Prototipo-navegable-EA?scaling=min-zoom)
+>Puedes ver la [demo del Prototipo aqui](https://www.figma.com/proto/F145y0WGRsxZWT8s95WpWR/Prototipo-navegable-EA-(ITERADO)?node-id=0%3A1&scaling=scale-down-width)
 
 ### **Detalle del contenido del Prototipo de Alta fidelidad**
 
@@ -342,7 +347,7 @@ Los contenidos más relevantes en esta primera etapa son:
 
 
 ## **Testeo Prototipo de Alta fidelidad**
-Acá puedes ver nuestro [Primer testeo](https://www.useloom.com/share/963711cf68e24507b78bdcf42ab5c1d6)
+>Acá puedes ver nuestro [Primer testeo](https://www.useloom.com/share/963711cf68e24507b78bdcf42ab5c1d6)
 
 
 
@@ -352,15 +357,11 @@ Acá puedes ver nuestro [Primer testeo](https://www.useloom.com/share/963711cf68
 
 ## **Otros contenidos**
 
-[Revisa nuestro video explicando el proceso del proyecto aqui]()
+>[Revisa nuestro video explicando el proceso del proyecto aqui](https://youtu.be/Ti6wz03O-bA)
 
-[Aqui puede revisar la carpeta donde se contiene todo el proceso de investigación](https://drive.google.com/drive/folders/1osX3sd7BJ2ZVJ7C60uSWzxfccQ5Br5rj?usp=sharing)
+>[Aqui puede revisar la carpeta donde se contiene todo el proceso de investigación](https://drive.google.com/drive/folders/1osX3sd7BJ2ZVJ7C60uSWzxfccQ5Br5rj?usp=sharing)
+
+>[Acá puedes ver las dos pantallas del sitio desplegado](https://majosalazar.github.io/scl-2018-02-ux-marketplace/)
 
 
 
-
-
-## **Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.**
-
-En esta primera etapa trabajamos centradas en la problemática de los clientes del Emporio Amapolas.
-Los contenidos que escogimos para implementar en la página fueron en base a los aprendizaje logrados en la observación contextual de usuarios realizando una compra a EA por medio de instagram, entendiendo cuáles eran sus pasos lógicos para llegar a una tarea en específico y además tomamos como referencia algunas de las mejores características de los competidores con el fin de entregar la experiencia de compra más idónea a usuarios que por tiempo prefieren realizar compras online. 
