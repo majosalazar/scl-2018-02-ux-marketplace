@@ -38,6 +38,7 @@ A continuación puedes revisar más detalles sobre quiénes son sus seguidores, 
 ### **Entrevista a Consuelo Preusser**
 >[Aqui puedes escuchar la entrevista](https://soundcloud.com/marlene-lopez-nanco-729624906/emporioamapolas-entrevista/s-paV2c)
 
+
 ## **Observación contextual**
 
 Observamos a 3 usuarios usando el instagram de Emporio Amapolas, le solicitamos explorarán los productos disponibles y luego realizarán una compra de manera ficticia y nos  contarán cómo lo harían.
@@ -215,6 +216,7 @@ Diseñamos la estructuración de nuestra página con un primer Wireframe, el que
 >Acá puedes ver uno de los [Testeo del Wireframe.](https://youtu.be/TLz3eaF30aE)
 
 
+
 Los testeos de usabilidad nos entregaron el siguiente feedback:
 - La posición del buscado no es la más adecuada, pareciera ser un buscador general y no de productos.
 - Al usuario le interesaba ver productos en oferta más que destacados.
@@ -240,6 +242,7 @@ Esta máqueta incluye interacción básica, para realizar testeos. Puedes ver la
 
 ## **Testeo de la Maqueta** 
 >Se realizaron 5 testeos de la maqueta, los cuales puedes verlos aquí:
+
 [Testeo 1](https://www.useloom.com/share/9a5ada8a3bea47a0ba233efab539797b),
 [Testeo 2](https://www.useloom.com/share/87782a06658c41d982a021c8c1a29310),
 [Testeo 3](https://www.useloom.com/share/2b8001eca77744dcb41efa569fea1e40),
@@ -283,12 +286,14 @@ Además el precio puesto al producto corresponde sólo a uno de los "PESOS" disp
 
 ### **¿Cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final?**
 
+
 Los contenidos más relevantes en esta primera etapa son:
 - Visualización de los productos; desde que el usuario ingresa a la página puede apreciar algunos de los productos del EA, en tarjetas con una fotografía de buena calidad que indican los formatos de tamaños disponibles y los rangos de precio, al hacer clic en una tarjeta ingresamos al detalle del producto,encontrando información como la porción recomendada por día, beneficios del producto, los formatos disponibles y sugerencias de recetas para preparar con el producto.
 - El flujo de compra; el usuario puede seleccionar el tipo de formato de su compra (cantidad de kg), a partir de esta selección indicará la cantidad de stock disponible, dándole la posibilidad de escoger la cantidad de productos que quiere comprar indicando inmediatamente al costado el valor que tendrá esta compra, indicando en todo momento el valor que tendrá su compra. Si le da en agregar al carro, en el navbar se indica el valor de total de los productos y la cantidad de estos. Al ir al carro de compra se muestran los productos seleccionados con posibilidad de eliminar alguno si se quiere y en el costado derecho se indica el total de la compra y las opciones de envío disponibles, cuentan con un  tooltip con detalles de cada una de la opciones.
 
 
 >Puedes ver la [demo del Prototipo aqui](https://www.figma.com/proto/F145y0WGRsxZWT8s95WpWR/Prototipo-navegable-EA-(ITERADO)?node-id=0%3A1&scaling=scale-down-width)
+
 
 ### **Detalle del contenido del Prototipo de Alta fidelidad**
 
