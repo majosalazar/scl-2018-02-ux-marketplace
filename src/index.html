@@ -64,7 +64,7 @@
   </div>
 
   <!-- Carrusel -->
-  <div class="carrusel">
+  <div class="carrusel" id="carruselId">
     <div class="bd-example">
       <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
@@ -116,81 +116,146 @@
       <!-- tarjetas individuales -->
       <div class="card col-xl-3 col-lg-3 col-md-4 col-sm-6 col-">
         <span class="card-notify">Nuevo</span>
+        <img src="img/Contenido pagina/Productos/p-5.png" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h3>Quinoa</h3>
+          <h5>0,5kg - 1kg</h5>
+          <h4>$3.000 - $5.500</h4>
+        </div>
+      </div>
+      <div class="card col-xl-3 col-lg-3 col-md-4 col-sm-6 col-" onclick="goInfo()">
+        <span class="card-notify">-10%</span>
         <img src="img/Contenido pagina/Productos/p-1.png" class="card-img-top" alt="...">
         <div class="card-body">
           <h3>Almendras</h3>
-          <h5>0,5kg - 1kg</h5>
-          <h4>$3.000 - $5.000</h4>
+          <h5>0,5kg - 2kg</h5>
+          <h4>$3.500 - $5.000</h4>
         </div>
       </div>
       <div class="card col-xl-3 col-lg-3 col-md-4 col-sm-6 col-">
-        <img src="img/Contenido pagina/Productos/semillas-de-chia-kja-U501081739563CUD-560x420@MujerHoy.jpg" class="card-img-top"
-          alt="...">
+        <span class="card-notify">Nuevo</span>
+        <img src="img/Contenido pagina/Productos/p-4.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <h3>Almendras</h3>
+          <h3>Mix de frutos secos</h3>
           <h5>0,5kg - 1kg</h5>
-          <h4>$3.000 - $5.000</h4>
+          <h4>$2.500 - $4.500</h4>
         </div>
       </div>
       <div class="card col-xl-3 col-lg-3 col-md-4 col-sm-6 col-">
-        <img src="img/Contenido pagina/Productos/tom-hermans-642333-unsplash.jpg" class="card-img-top" alt="...">
+        <span class="card-notify">-15%</span>
+        <img src="img/Contenido pagina/Productos/p-3.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <h3>Almendras</h3>
+          <h3>Semilla de Zapallo</h3>
           <h5>0,5kg - 1kg</h5>
-          <h4>$3.000 - $5.000</h4>
+          <h4>$2.500 - $5.000</h4>
+        </div>
+      </div>
+    </div>
+    <div class="row card-deck">
+      <div class="card col-xl-3 col-lg-3 col-md-4 col-sm-6 col-">
+        <span class="card-notify">Nuevo</span>
+        <img src="img/Contenido pagina/Productos/p-7.png" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h3>Maní</h3>
+          <h5>0,5kg - 2kg</h5>
+          <h4>$2.000 - $3.500</h4>
         </div>
       </div>
       <div class="card col-xl-3 col-lg-3 col-md-4 col-sm-6 col-">
-        <img src="img/Contenido pagina/Productos/tom-hermans-642333-unsplash.jpg" class="card-img-top" alt="...">
+        <span class="card-notify">-6%</span>
+        <img src="img/Contenido pagina/Productos/p-2.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <h3>Almendras</h3>
+          <h3>Semillas de Perejíl</h3>
           <h5>0,5kg - 1kg</h5>
-          <h4>$3.000 - $5.000</h4>
+          <h4>$3.500 - $5.000</h4>
+        </div>
+      </div>
+      <div class="card col-xl-3 col-lg-3 col-md-4 col-sm-6 col-">
+        <span class="card-notify">-20%</span>
+        <img src="img/Contenido pagina/Productos/p-6.png" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h3>Semillas de Chia</h3>
+          <h5>0,5kg - 1kg</h5>
+          <h4>$2.500 - $4.500</h4>
+        </div>
+      </div>
+      <div class="card col-xl-3 col-lg-3 col-md-4 col-sm-6 col-">
+        <span class="card-notify">-5%</span>
+        <img src="img/Contenido pagina/Productos/p-8.png" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h3>Maravilla</h3>
+          <h5>0,5kg - 1kg</h5>
+          <h4>$2.000 - $3.500</h4>
         </div>
       </div>
     </div>
   </div>
 
   <!-- detalle producto -->
-  <section class="container">
-    <div class="row">
-      <div class="col-1"></div>
-      <div class="col-5">
-        <img src="img/Contenido pagina/Info del producto/Copia de Copia de chuttersnap-412998-unsplash.jpg" class="w-100">
+  <div id="infoProduct">
+    <section class="container">
+      <div class="row">
+        <div class="col-1"></div>
+        <div class="col-5">
+          <img src="img/Contenido pagina/Info del producto/Copia de Copia de chuttersnap-412998-unsplash.jpg" class="w-100">
+        </div>
+        <div class="col-5">
+          <p class="title">Almendras</p>
+          <p class="price">$3.000 - $5.000</p>
+          <p class="info-product">La Almendra protege el corazón, fortalece los huesos y presta su sabor y textura a
+            recetas tanto dulces como
+            saladas.</p>
+          <img src="img/Contenido pagina/Info del producto/porcion.png" alt="porcion diaria" class="img-porcion">
+          <p class="title-2">Paquete</p>
+          <input type="radio" name="" id="" class="input-radio"> 0,5kg
+          <input type="radio" name="" id="" class="input-radio"> 1kg
+          <input type="radio" name="" id="" class="input-radio"> 2kg
+          <p class="title-2">Cantidad</p>
+          <div class="product-quantity">
+            <input type="number" value="0" min="1">
+          </div>
+          <br>
+          <button class="btn btn-lg btn-carousel">Añadir al carro</button>
+          <button class="btn btn-lg btn-carro">Ir al carro</button>
+        </div>
+        <div class="col-1"></div>
       </div>
-      <div class="col-5">
-        <p>Almendras</p>
-        <p>$3.000 - $5.000</p>
-        <p>La Almendra protege el corazón, fortalece los huesos y presta su sabor y textura a recetas tanto dulces como
-          saladas.</p>
-        <p>Paquete</p>
-        <input type="radio" name="" id=""> 0,5kg
-        <input type="radio" name="" id=""> 1kg
-        <input type="radio" name="" id=""> 2kg
-
-        <div class="product-quantity">
-          <input type="number" value="0" min="1">
+    </section>
+    <!-- sugerencias recetas -->
+    <section class="container pad-top">
+      <h2>Recetas</h2>
+      <hr>
+      <div class="row card-deck">
+        <div class="card col-xl-4 col-lg-4 col-md-6 col-sm-6 col-">
+          <img src="img/Contenido pagina/Recetas con Almendras/r-1.png" class="card-img -top" alt="...">
+          <div class="card-body">
+            <h3>Croissant de Almendras</h3>
+            <p class="text-receta"><i class="far fa-clock"></i> 1h, Porción para 6</p>
+          </div>
+        </div>
+        <div class="card col-xl-4 col-lg-4 col-md-6 col-sm-6 col-">
+          <img src="img/Contenido pagina/Recetas con Almendras/r-2.png" class="card-img -top" alt="...">
+          <div class="card-body">
+            <h3>Tartaleta de Almendras</h3>
+            <p class="text-receta"><i class="far fa-clock"></i> 45min, Porción para 6</p>
+          </div>
+        </div>
+        <div class="card col-xl-4 col-lg-4 col-md-6 col-sm-6 col-">
+          <img src="img/Contenido pagina/Recetas con Almendras/r-3.png" class="card-img -top" alt="...">
+          <div class="card-body">
+            <h3>Queque de Almendras</h3>
+            <p class="text-receta"><i class="far fa-clock"></i> 30min, Porción para 8</p>
+          </div>
+          </div>
         </div>
       </div>
-      <div class="col-1"></div>
-
-    </div>
-
-  </section>
+    </section>
+  </div>
 
   <!-- footer -->
   <footer id="footer">
     <img src="img/Contenido pagina/Footer/Footer.png" class="w-100" alt="">
   </footer>
-  <!-- productos por tipo -->
-  <div class="container">
-    <h2>Productos > </h2>
-    <h2>Frutos Secos</h2>
-    <hr>
-    <div class="row">
-
-    </div>
-  </div>
   <!-- enlaces bootstrap -->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
     crossorigin="anonymous"></script>
